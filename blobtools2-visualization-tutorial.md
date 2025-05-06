@@ -7,7 +7,7 @@ This guide documents how to generate taxonomic and coverage-based visualizations
 
 ## 📁 Project Structure
 
-The following assumes your working directories on the GACRC cluster are structured like so:
+The following shows your working directories on the GACRC cluster are structured like so:
 
 ```
 /scratch/bas42855/blobtools_output/
@@ -93,9 +93,6 @@ rm /scratch/bas42855/blobtools_output/*.png
 rm /scratch/bas42855/blobtools_output/*.json
 ```
 
----
 
-## 📝 Notes
 
-- For higher interactivity, consider using [BlobToolKit](https://blobtoolkit.genomehubs.org/), which provides a web-based GUI.
-- The warnings during plotting (`set_ticklabels`) are harmless and can be ignored.
+
